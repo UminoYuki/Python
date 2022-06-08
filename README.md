@@ -1,3 +1,2 @@
-# Python
-# Python代码
-# 测试
+# 个人的Python学习代码
+
